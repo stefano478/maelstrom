@@ -1,7 +1,7 @@
-# Build
+# Build -> standard de facto per la generazione manuale del progetto
 build/
 
-# directory out
+# Out -> si tratta dello standard de facto per clion e per il tool di cmake per generare il progetto
 out/
 
 # CMake
