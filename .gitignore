@@ -1,6 +1,9 @@
 # Build
 build/
 
+# directory out
+out/
+
 # CMake
 compile_commands.json
 CMakeCache.txt
