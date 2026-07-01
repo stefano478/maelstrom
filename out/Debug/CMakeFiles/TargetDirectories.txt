@@ -1,3 +1,0 @@
-/home/stefano47/C_Projects/maelstrom/out/Debug/CMakeFiles/maelstrom.dir
-/home/stefano47/C_Projects/maelstrom/out/Debug/CMakeFiles/edit_cache.dir
-/home/stefano47/C_Projects/maelstrom/out/Debug/CMakeFiles/rebuild_cache.dir

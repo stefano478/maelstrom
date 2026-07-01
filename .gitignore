@@ -1,0 +1,22 @@
+# Build
+build/
+
+# CMake
+compile_commands.json
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# CLion
+.idea/
+
+# Neovim / clangd
+.cache/
+*.swp
+*.swo
+
+# Compilati (per sicurezza)
+*.o
+*.a
+*.out
