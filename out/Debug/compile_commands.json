@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/stefano47/C_Projects/maelstrom/out/Debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/maelstrom.dir/src/main.c.o -c /home/stefano47/C_Projects/maelstrom/src/main.c",
+  "file": "/home/stefano47/C_Projects/maelstrom/src/main.c",
+  "output": "CMakeFiles/maelstrom.dir/src/main.c.o"
+}
+]
